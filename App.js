@@ -6,7 +6,7 @@
 
 import React, { Component } from 'react';
 import {
-	Platform,
+  Platform,
   StyleSheet,
   Text,
   Image,
@@ -26,7 +26,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-      	<Judul/>
+        <Judul/>
         <Text style={styles.welcome}>
           DZUHRI ANDIKA PUTRA SUSANTO
         </Text>
